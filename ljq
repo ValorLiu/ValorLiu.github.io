@@ -1,0 +1,32 @@
+html
+   <!DOCTYPE html>
+   <html>
+   <head>
+       <title>添加我的微信</title>
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <style>
+           body {
+               display: flex;
+               justify-content: center;
+               align-items: center;
+               flex-direction: column;
+               height: 100vh;
+               margin: 0;
+               font-family: sans-serif;
+               text-align: center;
+           }
+           img {
+               max-width: 80%;
+               height: auto;
+           }
+           p {
+               margin-top: 20px;
+               color: #333;
+           }
+       </style>
+   </head>
+   <body>
+       <img src="9b32b74495f43459d5814320a80294d.jpg" alt="微信二维码">
+       <p>请长按二维码识别添加好友</p>
+   </body>
+   </html>
